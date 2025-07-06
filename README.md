@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Al Amin</h1>
-![I am Web Developer](https://tinyurl.com/ysnmwj9x)
+<h3 align="center">A passionate Frontend Developer from Bangladesh</h3>
 
 As a dedicated person building a challenging competitive and reward-oriented career with integrity, punctuality, hard work and confidence to solve complexities while working in an organization. He determined to success in his profession and prepared to work hard in order to achieve his objective.
 
