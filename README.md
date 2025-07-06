@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **NexaBD**
 - 🌱 I’m currently learning **Next.js**
 - 👯 I’m looking to collaborate on **React/Next.js Projects**
-- 💬 Ask me about **HTML, CSS,Tailwind , JavaScript, React, **
+- 💬 Ask me about **HTML, CSS,Tailwind , JavaScript, React**
 - 📫 How to reach me **mdalamincse2003@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
