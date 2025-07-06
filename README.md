@@ -2,18 +2,21 @@
 <h3 align="center">A passionate Frontend Developer from Bangladesh</h3>
 
 - 🔭 I’m currently working on **NexaBD**
-- 🌱 I’m currently learning **NexaBD**
+- 🌱 I’m currently learning **Next.js**
 - 👯 I’m looking to collaborate on **React/Next.js Projects**
 - 💬 Ask me about **HTML, CSS,Tailwind , JavaScript, React, **
 - 📫 How to reach me **mdalamincse2003@gmail.com**
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,github,vscode" />
+</p>
 
-Skills: React/Node JS/Laravel/MongoDB/MySQL/HTML / CSS
-
-- 🔭 I’m currently working on Zariq Ltd 
-- 🌱 I’m currently learning React 
-- 👯 I’m looking to collaborate on Github 
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/mdalamin" target="blank">LinkedIn</a> |
+  <a href="mailto:alamin@example.com">Email</a>
+</p>
 
 
 
