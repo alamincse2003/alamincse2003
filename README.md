@@ -1,5 +1,4 @@
-### Hi there 👋, I am Al Amin
-#### I am Web Developer
+<h1 align="center">Hi 👋, I'm Al Amin</h1>
 ![I am Web Developer](https://tinyurl.com/ysnmwj9x)
 
 As a dedicated person building a challenging competitive and reward-oriented career with integrity, punctuality, hard work and confidence to solve complexities while working in an organization. He determined to success in his profession and prepared to work hard in order to achieve his objective.
