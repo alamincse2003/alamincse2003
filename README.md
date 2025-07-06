@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Al Amin</h1>
 <h3 align="center">A passionate Frontend Developer from Bangladesh</h3>
 
-As a dedicated person building a challenging competitive and reward-oriented career with integrity, punctuality, hard work and confidence to solve complexities while working in an organization. He determined to success in his profession and prepared to work hard in order to achieve his objective.
+- 🔭 I’m currently working on **NexaBD**
+- 🌱 I’m currently learning **NexaBD**
+- 👯 I’m looking to collaborate on **React/Next.js Projects**
+- 💬 Ask me about **HTML, CSS,Tailwind , JavaScript, React, **
+- 📫 How to reach me **mdalamincse2003@gmail.com**
+
 
 Skills: React/Node JS/Laravel/MongoDB/MySQL/HTML / CSS
 
