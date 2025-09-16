@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Frontend Developer from Bangladesh</h3>
 
 - 🔭 I’m currently working on **NexaBD**
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **TypeScript**
 - 👯 I’m looking to collaborate on **React/Next.js Projects**
 - 💬 Ask me about **HTML, CSS,Tailwind , JavaScript, React**
 - 📫 How to reach me **mdalamincse2003@gmail.com**
