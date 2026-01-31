@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Al Amin</h1>
 <h3 align="center">A passionate Frontend Developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on **NexaBD**
+- 🔭 I’m currently working on **NidusLab**
 - 🌱 I’m currently learning **TypeScript**
 - 👯 I’m looking to collaborate on **React/Next.js Projects**
 - 💬 Ask me about **HTML, CSS,Tailwind , JavaScript, React**
