@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Frontend Developer from Bangladesh</h3>
 
 - 🔭 I’m currently working on **NidusLab**
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Rest API**
 - 👯 I’m looking to collaborate on **React/Next.js Projects**
-- 💬 Ask me about **HTML, CSS,Tailwind , JavaScript, React**
+- 💬 Ask me about **HTML, CSS,Tailwind , JavaScript, React, TypeScript, Nextjs**
 - 📫 How to reach me **mdalamincse2003@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
