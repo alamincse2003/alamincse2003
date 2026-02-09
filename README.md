@@ -14,19 +14,6 @@
 
 ---
 
-## 🧑‍💻 About Me
-
-```javascript
-const alAmin = {
-  pronouns: "He" | "Him",
-  location: "Bangladesh 🇧🇩",
-  currentRole: "Frontend Developer @ NidusLab (USA)",
-  education: "B.Sc in CSE",
-  passions: ["Clean Code", "UI/UX", "Problem Solving"],
-  funFact: "I debug with console.log and I'm proud of it! 😄",
-};
-```
-
 - 🔭 Currently working on **AI-integrated SaaS platforms**
 - 🌱 Learning **TypeScript** & **System Design**
 - 💬 Ask me about **React, Next.js, Tailwind CSS**
@@ -63,33 +50,3 @@ const alAmin = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=alamincse2003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alamincse2003&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alamincse2003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1" alt="Top Languages" height="150"/>
-
-</div>
-
----
-
-## 🏆 Featured Projects
-
-<div align="center">
-
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=alamincse2003&repo=portfolio-of-al-amin&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1)](https://github.com/alamincse2003/portfolio-of-al-amin)
-
-</div>
-
-![Snake animation](https://github.com/alamincse2003/alamincse2003/blob/output/github-contribution-grid-snake-dark.svg)
-
----
-
-<img src="https://komarev.com/ghpvc/?username=alamincse2003&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-
-**Thanks for visiting! ⭐ Star my repos if you find them useful!**
-
-</div>
