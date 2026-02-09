@@ -4,9 +4,9 @@
 
 ###  Frontend Developer | React.js | Next.js | TypeScript
 
-[![Portfolio](https://portfolio-of-alamincse2003.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-of-al-amin.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alamincse2003)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alamincse203@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdalamincse203@gmail.com)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=500&lines=Building+Modern+Web+Applications;React.js+%7C+Next.js+%7C+TypeScript;Turning+Ideas+Into+Reality" alt="Typing SVG" />
 
