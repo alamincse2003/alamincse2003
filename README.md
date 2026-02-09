@@ -84,24 +84,6 @@ const alAmin = {
 
 </div>
 
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-💼 I'm open to **Frontend Developer** opportunities and exciting projects!
-
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-6366F1?style=for-the-badge)](https://portfolio-of-al-amin.vercel.app)
-
-</div>
-
----
-
-<div align="center">
-
-### 🐍 Contribution Graph
-
 ![Snake animation](https://github.com/alamincse2003/alamincse2003/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
